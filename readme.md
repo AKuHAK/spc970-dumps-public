@@ -18,7 +18,7 @@
 
 ### CXP102064 Series (v2.xx Firmware) — MD 1.39
 
-| mecha | Revision | Date | JP (`0xx`) | US (`1xx`) | EU (`2xx`) | AU (`3xx`) | Arcade (`6xx`) | DTL-H0000x | DTL-Hx010x | Chassis / Remarks |
+| mecha | Revision | Date | JP (`0xx`) | US (`1xx`) | EU (`2xx`) | AU (`3xx`) | Arcade (`6xx`) | DTL-H3000x | DTL-Hx010x | Chassis / Remarks |
 | :--- | :---: | :---: | :---: |:----------:| :---: | :---: | :---: | :---: | :---: | :--- |
 | `2.00_0` | `1.19` | 2000-06-22 | ✅ **004R** | — | — | — | — | — | — | early SCPH-15000/18000 (GH-003 Board) |
 | `2.02_0` | `1.19` | 2000-07-04 | ✅ **005R** | — | — | — | — | — | ❌ 009R | A/A+ chassis SCPH-15000/18000, AB-chassis SCPH-18000, maybe DTL-H10100 |
