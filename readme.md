@@ -22,7 +22,7 @@ Full SHA-256 hashes and verification details are available in [checksums.md](che
 | `2.04_10` | `1.2` | `2000/08/04 07:00:31` | — | — | — | — | ✅ **651R** | — | Namco System 246 / 256, Konami Python 1 |
 | `2.06/07` | `1.30` | `2000-09-20 21:31:39+09` | ❌ 006R? | ✅ **102R** | ✅ **202R** | ❌ 302R | — | ❌ 703R | C and D chassis (SCPH-30001, SCPH-30004); 703R (v2.07_1, US region) used in DTL-H30001 and DTL-H30002 |
 | `2.12/13` | `1.36` | `2001-02-21 23:58:37+09` | ✅ **007R** | ✅ **103R** | ✅ **203R** | ❌ 303R | — | ✅ **752R** | D-chassis (SCPH-30000/1/4) & DTL-H30000 |
-| `2.14` | `1.45` | `2001-04-18 22:16:12+09` | ✅ **008R** | ✅ **104R** | ❌ 204R | ❌ 304R | — | — | D-chassis (SCPH-30000, SCPH-30001) |
+| `2.14` | `1.45` | `2001-04-18 22:16:12+09` | ✅ **008R** | ✅ **104R** | — | — | — | — | D-chassis (SCPH-30000, SCPH-30001) |
 | `2.13` | `1.36` | `2003-06-16 18:26:05+09` | — | — | — | — | — | ✅ **705R** | All DTL-H3010x models (DEX Multi-region) |
 
 ### MechaCon v3.xx Series (MD 1.39) — 192 KiB Native ROM (CXP103049)
